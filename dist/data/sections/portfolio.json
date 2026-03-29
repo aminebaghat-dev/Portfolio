@@ -86,23 +86,6 @@
                         {"faIcon": "fa-solid fa-link", "href": "https://rouen.espace360.net/activites"}
                     ],
                     
-                    "media": {
-                        "youtubeVideo": null,
-                        "screenshots": {
-                            "aspectRatio": "16:9",
-                            "images": [
-                                "/images/pictures/espace1.png",
-                                "/images/pictures/espace2.png",
-                                "/images/pictures/espace3.png",
-                                "/images/pictures/espace4.png",
-                                "/images/pictures/espace5.png",
-                                "/images/pictures/espace6.png",
-                                "/images/pictures/espace7.png",
-                                "/images/pictures/espace8.png",
-                                "/images/pictures/espace9.png"
-                            ]
-                        }
-                    },
 
                     "locales": {
                         "en": {
@@ -131,23 +114,7 @@
                         {"faIcon": "fa-solid fa-link", "href": "https://skools.app/"}
                     ],
 
-                    
-                    "media": {
-                        "youtubeVideo": null,
-                        "screenshots": {
-                            "aspectRatio": "16:9",
-                            "images": [
-                                "/images/pictures/skools1.png",
-                                "/images/pictures/skools2.png",
-                                "/images/pictures/skools3.png",
-                                "/images/pictures/skools4.png",
-                                "/images/pictures/skools5.png",
-                                "/images/pictures/skools6.png",
-                                "/images/pictures/skools7.png",
-                                "/images/pictures/skools8.png"
-                            ]
-                        }
-                    },
+
         
                     "locales": {
                         "en": {
@@ -175,22 +142,6 @@
                     "links": [
                         {"faIcon": "fa-solid fa-link", "href": "https://chikshop.ma/"}
                     ],
-
-                    "media": {
-                        "youtubeVideo": null,
-                        "screenshots": {
-                            "aspectRatio": "16:9",
-                            "images": [
-                                "/images/pictures/chik1.png",
-                                "/images/pictures/chik2.png",
-                                "/images/pictures/chik3.png",
-                                "/images/pictures/chik4.png",
-                                "/images/pictures/chik5.png",
-                                "/images/pictures/chik6.png",
-                                "/images/pictures/chik7.png"
-                            ]
-                        }
-                    },
 
 
                     "locales": {
