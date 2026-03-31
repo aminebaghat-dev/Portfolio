@@ -174,13 +174,13 @@
 
                     "locales": {
                         "en": {
-                            "title": "desailespourtous",
+                            "title": "Desailespourtous",
                             "text": "A full-stack e-commerce website developed for a social initiative, allowing users to purchase t-shirts and mystery boxes in order to participate in a giveaway contest. The platform combines a seamless shopping experience with an engaging concept that encourages user participation through product-based entries.",
                             "tags": ["Vite", "Redux", "React"] 
                         },
 
                         "fr": {
-                            "title": "desailespourtous",
+                            "title": "Desailespourtous",
                             "text": "Un site web e-commerce full-stack développé pour une initiative sociale, permettant aux utilisateurs d’acheter des t-shirts et des mystery boxes afin de participer à un jeu concours. La plateforme combine une expérience d’achat fluide avec un concept engageant qui encourage la participation des utilisateurs à travers des entrées basées sur les achats de produits.",
                             "tags": ["Vite", "Redux", "React"] 
                         }
