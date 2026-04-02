@@ -157,7 +157,65 @@
                             "tags": ["Wordress", "WooCommerce", "Elementor"]
                         }
                     }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img":"images/pictures/175.png",
+                        "fa": null,
+                        "faColors": {"bg": "#111", "fill": "#EEE"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://desailespourtous.org/"}
+                    ],
+
+
+                    "locales": {
+                        "en": {
+                            "title": "Desailespourtous",
+                            "text": "A full-stack e-commerce website developed for a social initiative, allowing users to purchase t-shirts and mystery boxes in order to participate in a giveaway contest. The platform combines a seamless shopping experience with an engaging concept that encourages user participation through product-based entries.",
+                            "tags": ["Vite", "Redux", "React"] 
+                        },
+
+                        "fr": {
+                            "title": "Desailespourtous",
+                            "text": "Un site web e-commerce full-stack développé pour une initiative sociale, permettant aux utilisateurs d’acheter des t-shirts et des mystery boxes afin de participer à un jeu concours. La plateforme combine une expérience d’achat fluide avec un concept engageant qui encourage la participation des utilisateurs à travers des entrées basées sur les achats de produits.",
+                            "tags": ["Vite", "Redux", "React"] 
+                        }
+                    }
+                }, 
+
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img":"images/pictures/logoCat.png",
+                        "fa": null,
+                        "faColors": {"bg": "#111", "fill": "#EEE"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": ""}
+                    ],
+
+
+                    "locales": {
+                        "en": {
+                            "title": "CatConnect",
+                            "text": "CatConnect is a mobile app that connects users with cat adoption opportunities and nearby pet services in Morocco. It features authentication, real-time data, smart search, and a modern user-friendly UI, built with React Native and Firebase.",
+                            "tags": ["React Native", "Expo", "Firebase"] 
+                        },
+
+                        "fr": {
+                            "title": "CatConnect",
+                            "text": "CatConnect est une application mobile qui met en relation les utilisateurs avec des opportunités d’adoption de chats et des services pour animaux à proximité au Maroc. Elle propose une authentification, des données en temps réel, une recherche intelligente et une interface moderne et conviviale, développée avec React Native et Firebase.",
+                            "tags": ["React Native", "Expo", "Firebase"] 
+                        }
+                    }
                 }
+
+
             ]
         }
     ]
